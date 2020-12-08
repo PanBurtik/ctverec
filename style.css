@@ -1,0 +1,19 @@
+header{
+    background-color: lightblue;
+}
+
+button{
+    color: white;
+    background-color: black;
+}
+body{
+    background-color: darkgray;
+}
+
+.vysledek{
+    background-color: #99ccff;
+    padding-left: 10px;
+    border: 2.5px solid black;
+    width: 100px;
+    margin-left: 100px;
+}
